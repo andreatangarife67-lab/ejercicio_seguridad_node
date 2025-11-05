@@ -1,0 +1,3 @@
+Ana Perez;diagnóstico: ansiedad leve
+Carlos Ruiz;control mensual
+María López;terapia respiratoria

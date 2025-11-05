@@ -1,0 +1,6 @@
+
+# Ignorar backups creados por el script
+*.backup-*
+# Estándar
+node_modules
+.DS_Store
